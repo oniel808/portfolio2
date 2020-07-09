@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio2/static/css/main.b8145381.chunk.css",
+    "main.js": "/portfolio2/static/js/main.67350fbe.chunk.js",
+    "main.js.map": "/portfolio2/static/js/main.67350fbe.chunk.js.map",
+    "runtime-main.js": "/portfolio2/static/js/runtime-main.1ee5a9c2.js",
+    "runtime-main.js.map": "/portfolio2/static/js/runtime-main.1ee5a9c2.js.map",
+    "static/js/2.268b74ba.chunk.js": "/portfolio2/static/js/2.268b74ba.chunk.js",
+    "static/js/2.268b74ba.chunk.js.map": "/portfolio2/static/js/2.268b74ba.chunk.js.map",
+    "index.html": "/portfolio2/index.html",
+    "precache-manifest.0b80d94ed362552e15a3b2b9ef033976.js": "/portfolio2/precache-manifest.0b80d94ed362552e15a3b2b9ef033976.js",
+    "service-worker.js": "/portfolio2/service-worker.js",
+    "static/css/main.b8145381.chunk.css.map": "/portfolio2/static/css/main.b8145381.chunk.css.map",
+    "static/js/2.268b74ba.chunk.js.LICENSE.txt": "/portfolio2/static/js/2.268b74ba.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/portfolio2/static/media/FoobarPro-Regular.462bd259.otf",
+    "static/media/designer.png": "/portfolio2/static/media/designer.99ee5c50.png",
+    "static/media/dribbble.jpg": "/portfolio2/static/media/dribbble.80a1b4a6.jpg",
+    "static/media/koalacare.png": "/portfolio2/static/media/koalacare.ec945afa.png",
+    "static/media/lead-of-engineering.png": "/portfolio2/static/media/lead-of-engineering.b15d8154.png",
+    "static/media/logo.svg": "/portfolio2/static/media/logo.5d5d9eef.svg",
+    "static/media/technical-architect.png": "/portfolio2/static/media/technical-architect.9bb533b2.png",
+    "static/media/webDev.png": "/portfolio2/static/media/webDev.62dff354.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ee5a9c2.js",
+    "static/js/2.268b74ba.chunk.js",
+    "static/css/main.b8145381.chunk.css",
+    "static/js/main.67350fbe.chunk.js"
+  ]
+}
